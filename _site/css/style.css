@@ -3,6 +3,11 @@
   src: url('../assets/fonts/nassim-regular.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
        url('../assets/fonts/nassim.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 }
+@font-face {
+  font-family: 'Nassim-Bold';
+  src: url('../assets/fonts/nassim-bold.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../assets/fonts/nassim-bold.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
 
 html{
 	margin: 0;
@@ -23,4 +28,30 @@ p{
 .container{
 	max-width: 940px;
 	margin: 0 auto;
+	padding: 0 5%;
 }
+
+.logo{
+	font-family: 'Nassim-Bold';
+	text-align: center;
+	color: #000;
+}
+
+.logo h1{font-size: 1.75em;}
+.logo h3{font-size: 1.1em; color: gray;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
