@@ -4,10 +4,10 @@ title: My First Post
 tags: post personal
 ---
 
-## Hello world
-this is my first post on this site. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum laudantium ipsam dignissimos, suscipit libero, provident eius, eligendi cumque molestiae aspernatur quod. At provident adipisci labore numquam aspernatur error est, rerum!
+## سلام دنیا
+اینجا اولین پست من نوشته میشود. من بسیار خوشحال هستم که این پست را با استفداده از دانش خودم می نویسم. امیدوارم همیشه خوشحال و شاد باشم. از خدا خیلی چیز ها می خواهم. همین.
 
-### Quote
->No Pain No Gain
+### نقل قول
+>نابرده رنج گنج میسر نمی شود  مزد آن گرفت جان برادر که کار کرد
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, commodi enim veritatis quam nihil corporis dolore incidunt iure ratione sequi, delectus similique error voluptatem tempore molestiae sit veniam dolorem. Voluptate.
+یک مشت اراجیف فارسی دیگر در اینجا

@@ -1,8 +1,23 @@
+@font-face {
+  font-family: 'Nassim';
+  src: url('../assets/fonts/nassim-regular.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../assets/fonts/nassim.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
 html{
 	margin: 0;
 	padding: 0;
 	background-color: #fff;
 	font-family: verdana;
 	direction: rtl;
+	font-family: 'Nassim';
+}
+
+h1{
+	font-size: 1.75em;
+}
+p{
+	font-size: 1em;
+	
 }
 
