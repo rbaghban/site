@@ -18,6 +18,9 @@ h1{
 }
 p{
 	font-size: 1em;
-	
 }
 
+.container{
+	max-width: 940px;
+	margin: 0 auto;
+}
