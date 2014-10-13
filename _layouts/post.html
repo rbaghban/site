@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+
+<!-- The date and tags comes first  -->
+	<div class="date">
+    	{{ page.date | date: "%B %e, %Y" }}
+ 	</div>
+  
+  <div class="tags">
+  	
+  	{{ page.tags }}
+
+  </div>
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+
+</article>
