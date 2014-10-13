@@ -14,8 +14,10 @@ layout: default
   	{{ page.tags }}
 
   </div>
-
-  <h1>{{ page.title }}</h1>
+  <a href="{{site.baseurl}}{{post.url}}">
+    <h1>{{ page.title }}</h1>
+  </a>
+  
 
   <div class="entry">
     {{ content }}
